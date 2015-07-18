@@ -1,0 +1,8 @@
+za/co/itlab/coindispense/rest/UserController.class
+za/co/itlab/coindispense/services/CoinServiceImpl.class
+za/co/itlab/coindispense/services/UserService.class
+za/co/itlab/coindispense/services/UserServiceImpl.class
+za/co/itlab/coindispense/domain/User.class
+za/co/itlab/coindispense/rest/CoinDispenseController.class
+za/co/itlab/coindispense/services/CoinService.class
+za/co/itlab/CoindispenseApplication.class
